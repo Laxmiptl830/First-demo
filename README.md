@@ -1,6 +1,6 @@
 # First-demo
 This is my first git repository.
 <br>
-Author-laxmi 
+Author-laxmi (first repo)
 <br>
 first change
